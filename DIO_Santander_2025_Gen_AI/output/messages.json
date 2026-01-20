@@ -1,0 +1,41 @@
+[
+  {
+    "user_id": 1,
+    "name": "Naruto",
+    "segment": "Gold",
+    "balance": 1200.5,
+    "city": "Sao Paulo",
+    "news": [
+      {
+        "icon": "https://example.com/icons/invest.svg",
+        "description": "Naruto, investir regularmente ajuda a construir segurança financeira. Comece hoje."
+      }
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "Hinata",
+    "segment": "Silver",
+    "balance": 250.1,
+    "city": "Curitiba",
+    "news": [
+      {
+        "icon": "https://example.com/icons/invest.svg",
+        "description": "Hinata, investir regularmente ajuda a construir segurança financeira. Comece hoje."
+      }
+    ]
+  },
+  {
+    "user_id": 3,
+    "name": "Sasuke",
+    "segment": "Platinum",
+    "balance": 9000.0,
+    "city": "Rio de Janeiro",
+    "news": [
+      {
+        "icon": "https://example.com/icons/invest.svg",
+        "description": "Sasuke, investir regularmente ajuda a construir segurança financeira. Comece hoje."
+      }
+    ]
+  }
+]
