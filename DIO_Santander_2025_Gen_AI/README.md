@@ -56,13 +56,13 @@ Estrutura do Projeto:
   etl-ai-messages/
   
   data/
-  -users.csv
+  - users.csv
   output/
-  -messages.json
-  -messages.csv
+  - messages.json
+  - messages.csv
   src/
-  -etl.py
-  -prompt.py
+  - etl.py
+  - prompt.py
   .env.example
   requirements.txt
   README.md
@@ -128,4 +128,5 @@ Possíveis Evoluções:
   Monitoramento e logs estruturados
   
   Integração com APIs reais
+
 
