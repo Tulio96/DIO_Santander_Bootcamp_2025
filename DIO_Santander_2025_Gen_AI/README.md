@@ -57,11 +57,11 @@ Estrutura do Projeto:
   
   data/
   - users.csv
-  - 
+    
   output/
   - messages.json
   - messages.csv
-  - 
+    
   src/
   - etl.py
   - prompt.py
@@ -133,6 +133,7 @@ Possíveis Evoluções:
   Monitoramento e logs estruturados
   
   Integração com APIs reais
+
 
 
 
