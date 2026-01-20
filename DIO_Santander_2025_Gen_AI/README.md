@@ -54,21 +54,18 @@ Etapa 3 - Load:
 
 Estrutura do Projeto:
   etl-ai-messages/
-  │
-  ├── data/
-  │   └── users.csv
-  │
-  ├── output/
-  │   ├── messages.json
-  │   └── messages.csv
-  │
-  ├── src/
-  │   ├── etl.py
-  │   └── prompt.py
-  │
-  ├── .env.example
-  ├── requirements.txt
-  └── README.md
+  
+  data/
+  -users.csv
+  output/
+  -messages.json
+  -messages.csv
+  src/
+  -etl.py
+  -prompt.py
+  .env.example
+  requirements.txt
+  README.md
 
 Tecnologias Utilizadas:
 
@@ -131,3 +128,4 @@ Possíveis Evoluções:
   Monitoramento e logs estruturados
   
   Integração com APIs reais
+
