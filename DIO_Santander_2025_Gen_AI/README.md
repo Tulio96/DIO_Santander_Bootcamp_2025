@@ -57,14 +57,19 @@ Estrutura do Projeto:
   
   data/
   - users.csv
+  - 
   output/
   - messages.json
   - messages.csv
+  - 
   src/
   - etl.py
   - prompt.py
+    
   .env.example
+  
   requirements.txt
+  
   README.md
 
 Tecnologias Utilizadas:
@@ -128,5 +133,6 @@ Possíveis Evoluções:
   Monitoramento e logs estruturados
   
   Integração com APIs reais
+
 
 
